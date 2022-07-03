@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Pathak</h1>
-<h3 align="center">A CSE Sophomore interested in Web Development and Problem Solving</h3>
+<h3 align="center">A Computer Science undergrad interested in Web Development and Problem Solving</h3>
 
 - 📫 How to reach me **tusharpathak2503@gmail.com**
 
