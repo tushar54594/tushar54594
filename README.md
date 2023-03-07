@@ -28,4 +28,6 @@
  </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="TusharPathak" /></p>
+ </div>
