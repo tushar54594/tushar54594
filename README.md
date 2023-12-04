@@ -4,7 +4,7 @@
 <img align = "right" alt = "coding" height = "300" width = "400" src ="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 # 💫 About Me:
-🔭 I’m currently exploring backend and making projects in react. Also improving my problem solving skills by practicing algorithmic problems on various coding platform <br>👯 I’m looking to collaborate on Frontend projects with focus in React.<br>📫 How to reach me **tusharpathak2503@gmail.com**<br>💬 Ask me about web development and DSA<br>⚡ Nothing revs my engine like exploring the latest and greatest cars on the market - Vroom vroom
+🔭 I’m currently exploring Java and SpringBoot. Also improving my problem solving skills by practicing algorithmic problems on various coding platform <br>👯 I’m looking to collaborate on web dev projects.<br>📫 How to reach me **tusharpathak2503@gmail.com**<br>💬 Ask me about web development and DSA<br>⚡ Nothing revs my engine like exploring the latest and greatest cars on the market - Vroom vroom
 
 
 ## 🌐 Socials:
